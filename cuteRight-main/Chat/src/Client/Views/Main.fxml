@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.ScrollBar?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="400.0"
+	xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Client.Controllers.MainController">
+   <top>
+      <HBox prefHeight="36.0" prefWidth="400.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button fx:id="logoutBtn" mnemonicParsing="false" prefHeight="36.0" prefWidth="64.0" text="&lt;---" />
+            <ComboBox fx:id="chooseRoomList" prefHeight="36.0" prefWidth="308.0" promptText="내 채팅방" />
+            <Button fx:id="createRoomBtn" mnemonicParsing="false" prefHeight="36.0" prefWidth="64.0" text="방생성" />
+         </children>
+      </HBox>
+   </top>
+   <right>
+      <ScrollBar orientation="VERTICAL" BorderPane.alignment="CENTER" />
+   </right>
+   <center>
+      <ListView fx:id="roomDisplay" prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER" />
+   </center>
+</BorderPane>

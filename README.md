@@ -7,7 +7,7 @@
 - Leader 기능으로 프로젝트 리더 역할 수행 가능
 - 팀원 구인, 단촉방 생성의 과정을 최소화
 
-## 유스케이스 다이어그램 및 기능 소
+## 유스케이스 다이어그램 및 기능 소개
 ![image](https://user-images.githubusercontent.com/101927543/224474756-f934b2b9-ec0a-44f8-9ee0-db2fde2442e1.png)
 
 ## 클래스 다이어그램
@@ -16,3 +16,5 @@
 ## ERD
 ![EntityDiagram-Page-1 drawio](https://user-images.githubusercontent.com/101927543/224475083-9b882883-b6d9-4593-b929-7cc3c4c6ccf3.png)
 
+## 자료
+[Uploading 최종보고서_귀엽조_발표PPT.pptx…]()

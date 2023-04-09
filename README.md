@@ -17,4 +17,4 @@
 ![EntityDiagram-Page-1 drawio](https://user-images.githubusercontent.com/101927543/224475083-9b882883-b6d9-4593-b929-7cc3c4c6ccf3.png)
 
 ## 자료
-[Uploading 최종보고서_귀엽조_발표PPT.pptx…]()
+[최종보고서_귀엽조_발표PPT.pptx](https://github.com/linirini/Team_Free/files/11185480/_._.PPT.pptx)
